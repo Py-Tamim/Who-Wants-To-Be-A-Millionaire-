@@ -1,0 +1,7477 @@
+[
+  {
+    "id": 1,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country has the most islands in the world?",
+    "options": [
+      "Japan",
+      "Indonesia",
+      "Philippines",
+      "Sweden"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Pascal",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who sculpted the statue of David?",
+    "options": [
+      "Donatello",
+      "Bernini",
+      "Auguste Rodin",
+      "Michelangelo"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 4,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "What is a scarecrow used for?",
+    "options": [
+      "Storing seeds",
+      "Watering plants",
+      "Scaring birds away from crops",
+      "Measuring rainfall"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Which ancient Greek poet is traditionally credited with the Iliad and the Odyssey?",
+    "options": [
+      "Hesiod",
+      "Sophocles",
+      "Virgil",
+      "Homer"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 6,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which company makes the Windows operating system?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "IBM",
+      "Google"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "options": [
+      "Germany",
+      "Netherlands",
+      "Spain",
+      "Argentina"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Niagara Falls lies on the border between Canada and which country?",
+    "options": [
+      "United States",
+      "Greenland",
+      "Russia",
+      "Mexico"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "How many strings does a standard violin have?",
+    "options": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which bird lays the largest egg?",
+    "options": [
+      "Eagle",
+      "Ostrich",
+      "Emu",
+      "Swan"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 11,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the square of 15?",
+    "options": [
+      "225",
+      "150",
+      "250",
+      "215"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote 'Crime and Punishment'?",
+    "options": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Nikolai Gogol",
+      "Maxim Gorky"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many squares are there on a chessboard?",
+    "options": [
+      "64",
+      "81",
+      "32",
+      "100"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which language has the most native speakers in the world?",
+    "options": [
+      "Hindi",
+      "Mandarin Chinese",
+      "English",
+      "Spanish"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 15,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyperlink Text Mode Language",
+      "HighText Machine Language",
+      "HyperText Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "Olericulture is the cultivation of which crops?",
+    "options": [
+      "Cereals",
+      "Flowers",
+      "Vegetables",
+      "Fruits"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which platform is widely used to host Git repositories?",
+    "options": [
+      "GitHub",
+      "Zoom",
+      "Spotify",
+      "Netflix"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The Partition of Bengal by Lord Curzon took place in which year?",
+    "options": [
+      "1947",
+      "1905",
+      "1857",
+      "1911"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which is the largest internal organ of the human body?",
+    "options": [
+      "Lungs",
+      "Liver",
+      "Stomach",
+      "Heart"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Who proposed the theory of relativity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "In the NPK fertilizer label, what does N stand for?",
+    "options": [
+      "Sodium",
+      "Nitrogen",
+      "Neon",
+      "Nickel"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 22,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Who founded the Red Cross?",
+    "options": [
+      "Clara Barton",
+      "Florence Nightingale",
+      "Louis Pasteur",
+      "Henry Dunant"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 23,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Lead",
+      "Mercury",
+      "Copper"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 24,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which is the largest lake in the world by area?",
+    "options": [
+      "Lake Superior",
+      "Caspian Sea",
+      "Lake Baikal",
+      "Lake Victoria"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 25,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Sepoy Mutiny (First War of Independence) in India took place in which year?",
+    "options": [
+      "1757",
+      "1857",
+      "1905",
+      "1919"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 26,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which pandas method shows the first rows of a DataFrame?",
+    "options": [
+      "show()",
+      "head()",
+      "top()",
+      "first()"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Industrial Revolution began in which country?",
+    "options": [
+      "Great Britain",
+      "Germany",
+      "United States",
+      "France"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 28,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many rings are there on the Olympic flag?",
+    "options": [
+      "7",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 29,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Great Barrier Reef is located off the coast of which country?",
+    "options": [
+      "Indonesia",
+      "Brazil",
+      "Australia",
+      "Mexico"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 30,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Bangladesh?",
+    "options": [
+      "Chattogram",
+      "Dhaka",
+      "Khulna",
+      "Sylhet"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 31,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which traditional tool is used to harvest grain by hand?",
+    "options": [
+      "Chisel",
+      "Sickle",
+      "Saw",
+      "Hammer"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 32,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is a neural network inspired by?",
+    "options": [
+      "The solar system",
+      "A calculator",
+      "The human brain",
+      "The internet"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 33,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "How many pairs of ribs does a typical human have?",
+    "options": [
+      "14",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 34,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is the tallest animal in the world?",
+    "options": [
+      "Camel",
+      "Ostrich",
+      "Elephant",
+      "Giraffe"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 35,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the pH of pure water?",
+    "options": [
+      "14",
+      "7",
+      "10",
+      "0"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 36,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which company originally developed the Java language?",
+    "options": [
+      "Sun Microsystems",
+      "Microsoft",
+      "IBM",
+      "Apple"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 37,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the area of a rectangle with length 6 and width 4?",
+    "options": [
+      "10",
+      "24",
+      "28",
+      "20"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 38,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which company was co-founded by Bill Gates and Paul Allen?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Intel"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 39,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who wrote the national anthem of Bangladesh, 'Amar Sonar Bangla'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Sukanta Bhattacharya",
+      "Kazi Nazrul Islam",
+      "Jibanananda Das"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 40,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Rickets in children is caused by deficiency of which vitamin?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin B6",
+      "Vitamin C"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 41,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote the autobiography 'Wings of Fire'?",
+    "options": [
+      "Vikram Sarabhai",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "A. P. J. Abdul Kalam"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 42,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which scientist discovered the electron?",
+    "options": [
+      "J. J. Thomson",
+      "Niels Bohr",
+      "Ernest Rutherford",
+      "James Chadwick"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 43,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the cube of 4?",
+    "options": [
+      "64",
+      "48",
+      "16",
+      "256"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 44,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Luxor",
+      "Giza"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which gas makes up most of Earth's atmosphere?",
+    "options": [
+      "Argon",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 46,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which crop is known as the 'golden fibre'?",
+    "options": [
+      "Cotton",
+      "Flax",
+      "Jute",
+      "Hemp"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 47,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Who formulated the law of universal gravitation?",
+    "options": [
+      "Isaac Newton",
+      "Michael Faraday",
+      "Johannes Kepler",
+      "Albert Einstein"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 48,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who is credited with reaching the Americas in 1492?",
+    "options": [
+      "Ferdinand Magellan",
+      "Marco Polo",
+      "Vasco da Gama",
+      "Christopher Columbus"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 49,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country hosted the 2020 Summer Olympics (held in 2021)?",
+    "options": [
+      "France",
+      "South Korea",
+      "Japan",
+      "China"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 50,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "What is the staple food of Bangladesh?",
+    "options": [
+      "Potato",
+      "Rice",
+      "Maize",
+      "Wheat"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 51,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which of these is a non-renewable source of energy?",
+    "options": [
+      "Hydropower",
+      "Wind",
+      "Coal",
+      "Solar"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 52,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "What is the Japanese art of paper folding called?",
+    "options": [
+      "Origami",
+      "Kabuki",
+      "Ikebana",
+      "Bonsai"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 53,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which vitamin is produced in the skin by sunlight?",
+    "options": [
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 54,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Silk Road mainly connected China with which region?",
+    "options": [
+      "Australia",
+      "The Mediterranean and Europe",
+      "South America",
+      "Antarctica"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 55,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "5",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 56,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the national flower of Bangladesh?",
+    "options": [
+      "Lotus",
+      "Water lily (Shapla)",
+      "Jasmine",
+      "Rose"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 57,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Newton's third law of motion states that:",
+    "options": [
+      "Every action has an equal and opposite reaction",
+      "An object stays at rest unless acted on",
+      "Energy cannot be created",
+      "Force equals mass times acceleration"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 58,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which Python function returns the number of items in a list?",
+    "options": [
+      "length()",
+      "len()",
+      "count()",
+      "size()"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 59,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which library is commonly used for data visualization in Python?",
+    "options": [
+      "Matplotlib",
+      "Requests",
+      "NumPy",
+      "Pytest"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 60,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Sitar is a classical musical instrument of which region?",
+    "options": [
+      "East Asia",
+      "Africa",
+      "South Asia",
+      "South America"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 61,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Which fertilizer is a rich source of nitrogen?",
+    "options": [
+      "Gypsum",
+      "Urea",
+      "Lime",
+      "Rock salt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "How many degrees are there in a full circle?",
+    "options": [
+      "360",
+      "90",
+      "270",
+      "180"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 63,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Michael Phelps is famous for which sport?",
+    "options": [
+      "Boxing",
+      "Gymnastics",
+      "Swimming",
+      "Athletics"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 64,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Palm oil comes from which plant?",
+    "options": [
+      "Oil palm",
+      "Date palm",
+      "Coconut palm",
+      "Sago palm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 65,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which soil type is generally considered best for most crops?",
+    "options": [
+      "Sandy soil",
+      "Salty soil",
+      "Loamy soil",
+      "Rocky soil"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 66,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Cox's Bazar in Bangladesh is famous for being a long natural what?",
+    "options": [
+      "Glacier",
+      "Waterfall",
+      "Desert",
+      "Sea beach"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 67,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which traditional Japanese sport features wrestlers in a ring called a dohyo?",
+    "options": [
+      "Sumo",
+      "Karate",
+      "Kendo",
+      "Judo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 68,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Italy?",
+    "options": [
+      "Milan",
+      "Venice",
+      "Naples",
+      "Rome"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 69,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the chemical name of common table salt?",
+    "options": [
+      "Potassium chloride",
+      "Sodium hydroxide",
+      "Calcium carbonate",
+      "Sodium chloride"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 70,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was Joan of Arc?",
+    "options": [
+      "A French heroine of the Hundred Years' War",
+      "A Roman empress",
+      "An English queen",
+      "A Spanish explorer"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 71,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What is the atomic number of carbon?",
+    "options": [
+      "4",
+      "8",
+      "12",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Magna Carta was sealed in which year?",
+    "options": [
+      "1066",
+      "1517",
+      "1415",
+      "1215"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 73,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which pandas function loads a JSON file into a DataFrame?",
+    "options": [
+      "pd.load_json_file()",
+      "pd.read_json()",
+      "pd.import_json()",
+      "pd.json_open()"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 74,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which is the smallest continent by area?",
+    "options": [
+      "Australia (Oceania)",
+      "Antarctica",
+      "Europe",
+      "South America"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 75,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who led the Mongol Empire to its early greatness?",
+    "options": [
+      "Attila",
+      "Kublai Khan",
+      "Timur",
+      "Genghis Khan"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 76,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the sum of the angles in a triangle?",
+    "options": [
+      "270°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 77,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the next number in the sequence 2, 4, 8, 16, ...?",
+    "options": [
+      "30",
+      "24",
+      "20",
+      "32"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 78,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which data structure follows the FIFO principle?",
+    "options": [
+      "Heap",
+      "Queue",
+      "Stack",
+      "Graph"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 79,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which disease is spread by Anopheles mosquitoes?",
+    "options": [
+      "Malaria",
+      "Typhoid",
+      "Dengue",
+      "Cholera"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 80,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the German dictator during World War II?",
+    "options": [
+      "Adolf Hitler",
+      "Otto von Bismarck",
+      "Erich Ludendorff",
+      "Kaiser Wilhelm II"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 81,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which Python data structure is ordered and mutable?",
+    "options": [
+      "List",
+      "Frozenset",
+      "Tuple",
+      "String"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 82,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "Which is the most-produced cereal in the world by volume?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Barley",
+      "Maize"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 83,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who composed the Ninth Symphony, containing 'Ode to Joy'?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 84,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who painted 'Guernica'?",
+    "options": [
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Joan Miro",
+      "Salvador Dali"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 85,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who wrote 'Animal Farm'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H. G. Wells"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 86,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who wrote 'Gitanjali' and won the Nobel Prize in Literature in 1913?",
+    "options": [
+      "Sarat Chandra Chattopadhyay",
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Kazi Nazrul Islam"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 87,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the British Prime Minister during most of World War II?",
+    "options": [
+      "Clement Attlee",
+      "Neville Chamberlain",
+      "Tony Blair",
+      "Winston Churchill"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 88,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "Which of these numbers is divisible by 9?",
+    "options": [
+      "731",
+      "730",
+      "729",
+      "728"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 89,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many players per team are on court in volleyball?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 90,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport is played at Wimbledon?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Cricket",
+      "Badminton"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 91,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who painted 'The Starry Night'?",
+    "options": [
+      "Claude Monet",
+      "Rembrandt",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 92,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year was the United Nations founded?",
+    "options": [
+      "1948",
+      "1945",
+      "1939",
+      "1919"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 93,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who is known as the National Poet of Bangladesh?",
+    "options": [
+      "Jasimuddin",
+      "Michael Madhusudan Dutt",
+      "Rabindranath Tagore",
+      "Kazi Nazrul Islam"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 94,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 8 × 7?",
+    "options": [
+      "63",
+      "56",
+      "54",
+      "48"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 95,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What color is the center of an archery target?",
+    "options": [
+      "Blue",
+      "White",
+      "Red",
+      "Gold"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 96,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the SI unit of frequency?",
+    "options": [
+      "Decibel",
+      "Tesla",
+      "Hertz",
+      "Farad"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 97,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the sum of the angles on a straight line?",
+    "options": [
+      "100°",
+      "360°",
+      "180°",
+      "90°"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 98,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which is the longest mountain range on land?",
+    "options": [
+      "Andes",
+      "Alps",
+      "Rockies",
+      "Himalayas"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 99,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does URL stand for?",
+    "options": [
+      "Unified Resource Loader",
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "User Resource Locator"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 100,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which subatomic particle has a negative charge?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Photon",
+      "Neutron"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 101,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "Which of these numbers is irrational?",
+    "options": [
+      "√2",
+      "0.25",
+      "3/4",
+      "√16"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 102,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Which city did the Ottomans conquer in 1453?",
+    "options": [
+      "Constantinople",
+      "Vienna",
+      "Athens",
+      "Cairo"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 103,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What type of bond involves the sharing of electrons?",
+    "options": [
+      "Hydrogen bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Ionic bond"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 104,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who wrote 'The Hobbit'?",
+    "options": [
+      "C. S. Lewis",
+      "Philip Pullman",
+      "Roald Dahl",
+      "J. R. R. Tolkien"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 105,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which strait separates Europe and Africa at the Mediterranean's western end?",
+    "options": [
+      "Strait of Malacca",
+      "Strait of Hormuz",
+      "Bosphorus",
+      "Strait of Gibraltar"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 106,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "Flooded rice paddies are a notable source of which greenhouse gas?",
+    "options": [
+      "Neon",
+      "Methane",
+      "Helium",
+      "Argon"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 107,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which Python data type represents True or False?",
+    "options": [
+      "str",
+      "bool",
+      "float",
+      "int"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 108,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the area of a circle with radius r?",
+    "options": [
+      "2πr",
+      "r²/2",
+      "πd",
+      "πr²"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 109,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the perimeter of a square with side 5 cm?",
+    "options": [
+      "10 cm",
+      "20 cm",
+      "15 cm",
+      "25 cm"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 110,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which continent is the driest on Earth?",
+    "options": [
+      "Antarctica",
+      "Asia",
+      "Africa",
+      "Australia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 111,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "The International Rice Research Institute (IRRI) is headquartered in which country?",
+    "options": [
+      "Thailand",
+      "India",
+      "The Philippines",
+      "Bangladesh"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 112,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Anandamath'?",
+    "options": [
+      "Kazi Nazrul Islam",
+      "Jasimuddin",
+      "Sarat Chandra Chattopadhyay",
+      "Bankim Chandra Chattopadhyay"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 113,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Vasco da Gama reached India (Calicut) in which year?",
+    "options": [
+      "1519",
+      "1498",
+      "1492",
+      "1453"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 114,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who was the first Caliph of Islam after Prophet Muhammad?",
+    "options": [
+      "Uthman",
+      "Abu Bakr",
+      "Ali",
+      "Umar"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 115,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the square root of 169?",
+    "options": [
+      "15",
+      "14",
+      "12",
+      "13"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 116,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'The Alchemist'?",
+    "options": [
+      "Isabel Allende",
+      "Paulo Coelho",
+      "Gabriel Garcia Marquez",
+      "Jorge Luis Borges"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 117,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Nepal?",
+    "options": [
+      "Thimphu",
+      "Lhasa",
+      "Kathmandu",
+      "Pokhara"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 118,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "Solve for x: 2x + 5 = 15",
+    "options": [
+      "10",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 119,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many stumps are there in a cricket wicket?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 120,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which pandas function reads a CSV file into a DataFrame?",
+    "options": [
+      "read_csv()",
+      "load_csv_file()",
+      "open_csv()",
+      "import_csv()"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 121,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which cells of blood help fight infection?",
+    "options": [
+      "Plasma",
+      "Platelets",
+      "Red blood cells",
+      "White blood cells"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 122,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "What does WHO stand for?",
+    "options": [
+      "World Hospital Office",
+      "World Health Organization",
+      "Western Health Operation",
+      "World Humanitarian Order"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 123,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is 2¹⁰?",
+    "options": [
+      "100",
+      "512",
+      "2048",
+      "1024"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 124,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which is the largest living reptile?",
+    "options": [
+      "Nile crocodile",
+      "Saltwater crocodile",
+      "Black caiman",
+      "Komodo dragon"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 125,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which gas do humans need to breathe in to survive?",
+    "options": [
+      "Nitrogen",
+      "Helium",
+      "Oxygen",
+      "Carbon dioxide"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 126,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Machu Picchu was built by which civilization?",
+    "options": [
+      "Aztec",
+      "Maya",
+      "Inca",
+      "Olmec"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 127,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'The Jungle Book'?",
+    "options": [
+      "Robert Louis Stevenson",
+      "Rudyard Kipling",
+      "Jonathan Swift",
+      "Daniel Defoe"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 128,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "In which sport do players perform a 'slam dunk'?",
+    "options": [
+      "Netball",
+      "Basketball",
+      "Volleyball",
+      "Handball"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 129,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which sport features a 'scrum'?",
+    "options": [
+      "Rugby",
+      "Hockey",
+      "Baseball",
+      "Football"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 130,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the LCM of 4 and 6?",
+    "options": [
+      "2",
+      "10",
+      "24",
+      "12"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 131,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which planet has the Great Red Spot?",
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Neptune",
+      "Saturn"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 132,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is the largest land animal?",
+    "options": [
+      "African elephant",
+      "Giraffe",
+      "Rhinoceros",
+      "Hippopotamus"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 133,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Program Utility",
+      "Central Processing Unit",
+      "Core Power Unit",
+      "Computer Personal Unit"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 134,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "A computer virus is best described as:",
+    "options": [
+      "A type of memory",
+      "A web browser",
+      "A malicious program",
+      "A hardware part"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 135,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Bacteria in root nodules of legumes fix which gas?",
+    "options": [
+      "Hydrogen",
+      "Nitrogen",
+      "Methane",
+      "Oxygen"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 136,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which is the largest country in Africa by area?",
+    "options": [
+      "DR Congo",
+      "Sudan",
+      "Libya",
+      "Algeria"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 137,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which is the world's largest mangrove forest?",
+    "options": [
+      "The Sundarbans",
+      "Everglades",
+      "Amazon Delta",
+      "Niger Delta"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 138,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which is the hottest planet in our solar system?",
+    "options": [
+      "Jupiter",
+      "Venus",
+      "Mars",
+      "Mercury"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 139,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Frankfurt",
+      "Munich",
+      "Hamburg",
+      "Berlin"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 140,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which type of lens is used to correct short-sightedness?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Cylindrical lens",
+      "Bifocal lens"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 141,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Kyoto",
+      "Osaka",
+      "Seoul"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 142,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is the largest ocean in the world?",
+    "options": [
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 143,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which Bangladeshi economist and Grameen Bank founder won the Nobel Peace Prize in 2006?",
+    "options": [
+      "Abhijit Banerjee",
+      "Amartya Sen",
+      "Muhammad Yunus",
+      "Fazle Hasan Abed"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 144,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Yen",
+      "Won",
+      "Ringgit",
+      "Yuan"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 145,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Tea is mainly grown in which region of Bangladesh?",
+    "options": [
+      "Sylhet",
+      "Rajshahi",
+      "Khulna",
+      "Barishal"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 146,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Tiger Woods is a famous player of which sport?",
+    "options": [
+      "Tennis",
+      "Baseball",
+      "Cricket",
+      "Golf"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 147,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who composed 'The Magic Flute'?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Joseph Haydn",
+      "Giuseppe Verdi",
+      "Richard Wagner"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 148,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "In which sport is the term 'love' used for a score of zero?",
+    "options": [
+      "Cricket",
+      "Hockey",
+      "Tennis",
+      "Golf"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 149,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "About how many days does the Earth take to orbit the Sun?",
+    "options": [
+      "300",
+      "180",
+      "400",
+      "365"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 150,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "The BCG vaccine protects against which disease?",
+    "options": [
+      "Measles",
+      "Tuberculosis",
+      "Hepatitis B",
+      "Polio"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 151,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What is the term for cell division producing two identical cells?",
+    "options": [
+      "Diffusion",
+      "Meiosis",
+      "Mitosis",
+      "Osmosis"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 152,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which animal is the symbol of the World Wide Fund for Nature (WWF)?",
+    "options": [
+      "Elephant",
+      "Tiger",
+      "Giant panda",
+      "Polar bear"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 153,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "On which date is Victory Day of Bangladesh celebrated?",
+    "options": [
+      "15 August",
+      "26 March",
+      "16 December",
+      "21 February"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 154,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Cotton is mainly grown as a source of what?",
+    "options": [
+      "Oil",
+      "Sugar",
+      "Fibre",
+      "Protein"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 155,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": [
+      "Kurt Vonnegut",
+      "Jack Kerouac",
+      "Truman Capote",
+      "J. D. Salinger"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 156,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "The Eiffel Tower is located in which city?",
+    "options": [
+      "Paris",
+      "Madrid",
+      "Rome",
+      "London"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 157,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who is traditionally credited as the compiler of the Mahabharata?",
+    "options": [
+      "Vyasa",
+      "Valmiki",
+      "Kalidasa",
+      "Banabhatta"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 158,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Which two superpowers were the main rivals in the Cold War?",
+    "options": [
+      "USA and Soviet Union",
+      "France and Russia",
+      "USA and China",
+      "UK and Germany"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 159,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the hypotenuse of a right triangle with sides 3 and 4?",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "4.5"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 160,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was known as the 'Iron Lady' of British politics?",
+    "options": [
+      "Queen Victoria",
+      "Theresa May",
+      "Margaret Thatcher",
+      "Elizabeth II"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 161,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "How many faces does a cube have?",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "4"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 162,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of South Korea?",
+    "options": [
+      "Pyongyang",
+      "Seoul",
+      "Incheon",
+      "Busan"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 163,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which HTML tag creates a hyperlink?",
+    "options": [
+      "<a>",
+      "<url>",
+      "<href>",
+      "<link-to>"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 164,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is the largest bird in the world?",
+    "options": [
+      "Penguin",
+      "Eagle",
+      "Albatross",
+      "Ostrich"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 165,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which symbol starts a single-line comment in Python?",
+    "options": [
+      "//",
+      "--",
+      "/*",
+      "#"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 166,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "Golden Rice is genetically enriched with what?",
+    "options": [
+      "Vitamin C",
+      "Iron",
+      "Beta-carotene (vitamin A precursor)",
+      "Zinc"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 167,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Mount Kilimanjaro is located in which country?",
+    "options": [
+      "Ethiopia",
+      "Uganda",
+      "Kenya",
+      "Tanzania"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 168,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which is the largest fish in the world?",
+    "options": [
+      "Great white shark",
+      "Blue marlin",
+      "Manta ray",
+      "Whale shark"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 169,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which language does Google officially prefer for modern Android development?",
+    "options": [
+      "Kotlin",
+      "Perl",
+      "Swift",
+      "Ruby"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 170,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Canberra",
+      "Perth",
+      "Melbourne",
+      "Sydney"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 171,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "What is the normal human body temperature?",
+    "options": [
+      "40 °C",
+      "30 °C",
+      "37 °C",
+      "35 °C"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 172,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "A deficiency of which nutrient commonly causes yellowing of older leaves in plants?",
+    "options": [
+      "Nitrogen",
+      "Zinc",
+      "Boron",
+      "Calcium"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 173,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "In the NPK fertilizer label, what does P stand for?",
+    "options": [
+      "Proton",
+      "Potassium",
+      "Phosphorus",
+      "Platinum"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 174,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What does DNA stand for?",
+    "options": [
+      "Dynamic nucleic acid",
+      "Deoxyribonucleic acid",
+      "Deoxyribose nitrate",
+      "Dinitrogen acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 175,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What is overfitting in machine learning?",
+    "options": [
+      "A model with perfect accuracy on new data",
+      "A model that never trains",
+      "A model with too few parameters",
+      "A model that fits training data too closely and generalizes poorly"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 176,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is the sum of the interior angles of a hexagon?",
+    "options": [
+      "900°",
+      "540°",
+      "720°",
+      "360°"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 177,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is the decimal value of binary 1010?",
+    "options": [
+      "8",
+      "12",
+      "5",
+      "10"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 178,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the smallest prime number?",
+    "options": [
+      "1",
+      "0",
+      "3",
+      "2"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 179,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the value of sin 90°?",
+    "options": [
+      "0",
+      "−1",
+      "0.5",
+      "1"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 180,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who painted 'Girl with a Pearl Earring'?",
+    "options": [
+      "Peter Paul Rubens",
+      "Frans Hals",
+      "Rembrandt",
+      "Johannes Vermeer"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 181,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "The 'White Revolution' in agriculture refers to growth in which output?",
+    "options": [
+      "Cotton production",
+      "Wheat production",
+      "Milk production",
+      "Egg production"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 182,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What is the binary representation of the decimal number 5?",
+    "options": [
+      "101",
+      "111",
+      "110",
+      "011"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 183,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which mammal lays eggs?",
+    "options": [
+      "Platypus",
+      "Kangaroo",
+      "Dolphin",
+      "Bat"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 184,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Who founded Facebook?",
+    "options": [
+      "Larry Page",
+      "Elon Musk",
+      "Mark Zuckerberg",
+      "Jack Dorsey"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 185,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What does a seismograph measure?",
+    "options": [
+      "Air pressure",
+      "Rainfall",
+      "Wind speed",
+      "Earthquake vibrations"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 186,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound sterling",
+      "Franc"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 187,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote the epic poem 'Meghnad Badh Kavya'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Michael Madhusudan Dutt",
+      "Jibanananda Das"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 188,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Maya Angelou",
+      "Margaret Mitchell",
+      "Toni Morrison",
+      "Harper Lee"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 189,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which is the smallest bone in the human body?",
+    "options": [
+      "Radius",
+      "Patella",
+      "Femur",
+      "Stapes (in the ear)"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 190,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the Egyptian queen who allied with Julius Caesar and Mark Antony?",
+    "options": [
+      "Isis",
+      "Hatshepsut",
+      "Nefertiti",
+      "Cleopatra"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 191,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which Python library is widely used for classical machine learning?",
+    "options": [
+      "Tkinter",
+      "scikit-learn",
+      "Pillow",
+      "Pygame"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 192,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "What is the scientific study and cultivation of fruits called?",
+    "options": [
+      "Pomology",
+      "Agronomy",
+      "Silviculture",
+      "Pedology"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 193,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which element is the main component of diamonds?",
+    "options": [
+      "Calcium",
+      "Sulfur",
+      "Silicon",
+      "Carbon"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 194,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Which art form is the practice of decorative handwriting?",
+    "options": [
+      "Calligraphy",
+      "Sculpture",
+      "Mosaic",
+      "Etching"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 195,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which country is the origin of pizza?",
+    "options": [
+      "Greece",
+      "USA",
+      "France",
+      "Italy"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 196,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who won the first Nobel Prize in Literature in 1901?",
+    "options": [
+      "Henrik Ibsen",
+      "Rudyard Kipling",
+      "Leo Tolstoy",
+      "Sully Prudhomme"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 197,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Acid rain is mainly caused by which pollutants?",
+    "options": [
+      "Sulfur dioxide and nitrogen oxides",
+      "Helium and neon",
+      "Water vapour and argon",
+      "Oxygen and nitrogen"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 198,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which practice helps reduce waste by reusing materials?",
+    "options": [
+      "Recycling",
+      "Dumping",
+      "Burning",
+      "Littering"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 199,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which group of animals is cold-blooded?",
+    "options": [
+      "Mammals",
+      "Reptiles",
+      "Birds",
+      "None of them"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 200,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who wrote the 'Harry Potter' series?",
+    "options": [
+      "Roald Dahl",
+      "Suzanne Collins",
+      "J. K. Rowling",
+      "Enid Blyton"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 201,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which US President issued the Emancipation Proclamation?",
+    "options": [
+      "Ulysses Grant",
+      "Abraham Lincoln",
+      "Theodore Roosevelt",
+      "Andrew Jackson"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 202,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which device is an output device?",
+    "options": [
+      "Mouse",
+      "Microphone",
+      "Scanner",
+      "Monitor"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 203,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who was the first human to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Michael Collins",
+      "Yuri Gagarin"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 204,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "Solve for x: 3x = 21",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "6"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 205,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "The Nobel Peace Prize is awarded in which city?",
+    "options": [
+      "Oslo",
+      "Copenhagen",
+      "Geneva",
+      "Stockholm"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 206,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote 'The Divine Comedy'?",
+    "options": [
+      "Virgil",
+      "Petrarch",
+      "Dante Alighieri",
+      "Boccaccio"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 207,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is the sum of the first five odd numbers (1+3+5+7+9)?",
+    "options": [
+      "20",
+      "36",
+      "25",
+      "30"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 208,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Izmir",
+      "Ankara",
+      "Bursa"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 209,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "The 'Blue Revolution' refers to growth in which sector?",
+    "options": [
+      "Fish production",
+      "Oilseed production",
+      "Fertilizer use",
+      "Milk production"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 210,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sprinter is famous for holding the 100 m world record?",
+    "options": [
+      "Carl Lewis",
+      "Asafa Powell",
+      "Usain Bolt",
+      "Justin Gatlin"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 211,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "What is the main use of a plough?",
+    "options": [
+      "To spray water",
+      "To loosen and turn the soil",
+      "To harvest crops",
+      "To store grain"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 212,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Who is regarded as the father of modern chemistry?",
+    "options": [
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Robert Boyle",
+      "Dmitri Mendeleev"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 213,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "Jupiter",
+      "Earth",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 214,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who built the Taj Mahal?",
+    "options": [
+      "Shah Jahan",
+      "Aurangzeb",
+      "Akbar",
+      "Babur"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 215,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which Python library is mainly used for numerical arrays?",
+    "options": [
+      "NumPy",
+      "Requests",
+      "BeautifulSoup",
+      "Django"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 216,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which data structure follows the LIFO principle?",
+    "options": [
+      "Stack",
+      "Tree",
+      "Queue",
+      "Array"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 217,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which is the longest bone in the human body?",
+    "options": [
+      "Humerus",
+      "Tibia",
+      "Femur",
+      "Spine"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 218,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Which of these is a Kharif (monsoon-season) crop?",
+    "options": [
+      "Barley",
+      "Mustard",
+      "Wheat",
+      "Cotton"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 219,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Most of the Amazon rainforest lies in which country?",
+    "options": [
+      "Peru",
+      "Argentina",
+      "Brazil",
+      "Colombia"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 220,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "What is the study of soil called?",
+    "options": [
+      "Pedology",
+      "Pomology",
+      "Floriculture",
+      "Olericulture"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 221,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which hormone prepares the body for 'fight or flight'?",
+    "options": [
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "Melatonin"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 222,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "The Super Bowl is the championship game of which sport?",
+    "options": [
+      "Basketball",
+      "Rugby",
+      "American football",
+      "Baseball"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 223,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does CSV stand for?",
+    "options": [
+      "Comma-Separated Values",
+      "Computer Stored Values",
+      "Code Separated Version",
+      "Column Sorted Variables"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 224,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 225,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who painted 'The Last Supper'?",
+    "options": [
+      "Titian",
+      "Caravaggio",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 226,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who painted 'The Persistence of Memory'?",
+    "options": [
+      "Salvador Dali",
+      "Rene Magritte",
+      "Frida Kahlo",
+      "Max Ernst"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 227,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which festival is known as the Hindu festival of lights?",
+    "options": [
+      "Holi",
+      "Eid",
+      "Diwali",
+      "Navratri"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 228,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the Brahmaputra River called in Bangladesh?",
+    "options": [
+      "Meghna",
+      "Padma",
+      "Karnaphuli",
+      "Jamuna"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 229,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which animal can change its skin colour to blend in?",
+    "options": [
+      "Dog",
+      "Horse",
+      "Chameleon",
+      "Elephant"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 230,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which sport is associated with the Tour de France?",
+    "options": [
+      "Rowing",
+      "Cycling",
+      "Running",
+      "Swimming"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 231,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "William Faulkner",
+      "John Steinbeck"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 232,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "What is the scientific name of the tea plant?",
+    "options": [
+      "Coffea arabica",
+      "Zea mays",
+      "Oryza sativa",
+      "Camellia sinensis"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 233,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does RAM stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Run Active Memory",
+      "Rapid Action Memory"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 234,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Napoleon Bonaparte was finally defeated at which battle in 1815?",
+    "options": [
+      "Austerlitz",
+      "Waterloo",
+      "Trafalgar",
+      "Borodino"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 235,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which of these is a deep learning framework?",
+    "options": [
+      "Flask",
+      "Pandas",
+      "Selenium",
+      "PyTorch"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 236,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which organ produces insulin?",
+    "options": [
+      "Kidney",
+      "Spleen",
+      "Pancreas",
+      "Liver"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 237,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "John Adams",
+      "Thomas Jefferson",
+      "George Washington"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 238,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the primary language spoken in Brazil?",
+    "options": [
+      "French",
+      "Spanish",
+      "English",
+      "Portuguese"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 239,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which is the largest country in the world by area?",
+    "options": [
+      "China",
+      "Canada",
+      "Russia",
+      "United States"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 240,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is 3⁴?",
+    "options": [
+      "64",
+      "12",
+      "81",
+      "27"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 241,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the Roman numeral for 1000?",
+    "options": [
+      "L",
+      "D",
+      "M",
+      "C"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 242,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the capital of Switzerland?",
+    "options": [
+      "Geneva",
+      "Zurich",
+      "Bern",
+      "Basel"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 243,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "options": [
+      "O(n²)",
+      "O(log n)",
+      "O(n)",
+      "O(1)"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 244,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which language is used to style web pages?",
+    "options": [
+      "CSS",
+      "Java",
+      "Python",
+      "SQL"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 245,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": [
+      "Paris",
+      "Rome",
+      "London",
+      "Athens"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 246,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Who invented the World Wide Web?",
+    "options": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 247,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "The ozone layer protects Earth from which radiation?",
+    "options": [
+      "Sound waves",
+      "Infrared rays",
+      "Radio waves",
+      "Ultraviolet rays"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 248,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who was the last Mughal emperor of India?",
+    "options": [
+      "Shah Alam II",
+      "Aurangzeb",
+      "Jahangir",
+      "Bahadur Shah Zafar"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 249,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "Santiago",
+      "Montevideo",
+      "Cordoba",
+      "Buenos Aires"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 250,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Mount Fuji is located in which country?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Philippines"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 251,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'Frankenstein'?",
+    "options": [
+      "Emily Bronte",
+      "Mary Shelley",
+      "Bram Stoker",
+      "Jane Austen"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 252,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Timbuktu is a historic city in which country?",
+    "options": [
+      "Morocco",
+      "Mali",
+      "Sudan",
+      "Niger"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 253,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which cricketer is known as the 'Master Blaster'?",
+    "options": [
+      "Virat Kohli",
+      "Ricky Ponting",
+      "Sachin Tendulkar",
+      "Brian Lara"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 254,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote '1984'?",
+    "options": [
+      "Aldous Huxley",
+      "Franz Kafka",
+      "George Orwell",
+      "Arthur Koestler"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 255,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote 'The Little Prince'?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupery",
+      "Marcel Proust",
+      "Jules Verne"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 256,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who invented the telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 257,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which city is known as the 'City of Joy'?",
+    "options": [
+      "Delhi",
+      "Dhaka",
+      "Kolkata",
+      "Mumbai"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 258,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Dengue is spread by which mosquito?",
+    "options": [
+      "Mansonia",
+      "Anopheles",
+      "Culex",
+      "Aedes"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 259,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the national language of Bangladesh?",
+    "options": [
+      "Hindi",
+      "Bengali (Bangla)",
+      "Urdu",
+      "English"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 260,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What is absolute zero in Celsius?",
+    "options": [
+      "−273.15 °C",
+      "−373.15 °C",
+      "−100 °C",
+      "0 °C"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 261,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Who is regarded as the first computer programmer?",
+    "options": [
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Alan Turing",
+      "Charles Babbage"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 262,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote 'Paradise Lost'?",
+    "options": [
+      "William Blake",
+      "John Milton",
+      "John Donne",
+      "Alexander Pope"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 263,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Hair and nails are mainly made of which protein?",
+    "options": [
+      "Insulin",
+      "Keratin",
+      "Hemoglobin",
+      "Collagen"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 264,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the largest organ of the human body?",
+    "options": [
+      "Skin",
+      "Brain",
+      "Liver",
+      "Heart"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 265,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which animal is known as the 'Ship of the Desert'?",
+    "options": [
+      "Ox",
+      "Horse",
+      "Donkey",
+      "Camel"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 266,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The League of Nations was created after which war?",
+    "options": [
+      "World War I",
+      "World War II",
+      "Crimean War",
+      "Cold War"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 267,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which animal is the fastest diver in the bird world?",
+    "options": [
+      "Albatross",
+      "Golden eagle",
+      "Peregrine falcon",
+      "Swift"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 268,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which country is shaped like a boot?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "Greece",
+      "Italy"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 269,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which boxer was nicknamed 'The Greatest'?",
+    "options": [
+      "Muhammad Ali",
+      "George Foreman",
+      "Mike Tyson",
+      "Joe Frazier"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 270,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "What is the process of removing unwanted plants from a crop field called?",
+    "options": [
+      "Ploughing",
+      "Weeding",
+      "Threshing",
+      "Sowing"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 271,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Where did the ancient Olympic Games originate?",
+    "options": [
+      "Turkey",
+      "Egypt",
+      "Italy",
+      "Greece"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 272,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Which of these is a Rabi (winter-season) crop?",
+    "options": [
+      "Jute",
+      "Sorghum",
+      "Cotton",
+      "Wheat"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 273,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which device is an input device?",
+    "options": [
+      "Keyboard",
+      "Printer",
+      "Speaker",
+      "Monitor"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 274,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the volume of a cube with side 3?",
+    "options": [
+      "36",
+      "27",
+      "9",
+      "18"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 275,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "What type of farming is carried out on hill slopes by cutting steps?",
+    "options": [
+      "Terrace farming",
+      "Mixed farming",
+      "Shifting farming",
+      "Dry farming"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 276,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "What is the purpose of irrigation?",
+    "options": [
+      "Killing pests",
+      "Harvesting grain",
+      "Supplying water to crops artificially",
+      "Removing weeds"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 277,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Russia?",
+    "options": [
+      "Saint Petersburg",
+      "Kiev",
+      "Kazan",
+      "Moscow"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 278,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which desert lies in northern China and southern Mongolia?",
+    "options": [
+      "Gobi",
+      "Thar",
+      "Namib",
+      "Atacama"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 279,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Anemometer",
+      "Barometer",
+      "Hygrometer",
+      "Thermometer"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 280,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote 'Don Quixote'?",
+    "options": [
+      "Lope de Vega",
+      "Miguel de Cervantes",
+      "Jorge Luis Borges",
+      "Federico Garcia Lorca"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 281,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which of these is a cloud storage service?",
+    "options": [
+      "Notepad",
+      "Photoshop",
+      "Google Drive",
+      "VLC"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 282,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "A Japanese poem of 17 syllables is called a:",
+    "options": [
+      "Ode",
+      "Limerick",
+      "Sonnet",
+      "Haiku"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 283,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which keyword defines a function in Python?",
+    "options": [
+      "def",
+      "function",
+      "define",
+      "func"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 284,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 1/4 + 1/4?",
+    "options": [
+      "1/2",
+      "1/8",
+      "1",
+      "2/3"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 285,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who wrote 'Oliver Twist'?",
+    "options": [
+      "Thomas Hardy",
+      "George Eliot",
+      "Charles Dickens",
+      "H. G. Wells"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 286,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Where is the headquarters of the United Nations located?",
+    "options": [
+      "Paris",
+      "New York City",
+      "London",
+      "Geneva"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 287,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is log₁₀(1000)?",
+    "options": [
+      "10",
+      "2",
+      "100",
+      "3"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 288,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the probability of getting heads on a fair coin toss?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "1"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 289,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which Python function displays output on the screen?",
+    "options": [
+      "show()",
+      "echo()",
+      "print()",
+      "display()"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 290,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who invented the movable-type printing press in Europe?",
+    "options": [
+      "Isaac Newton",
+      "Johannes Gutenberg",
+      "Galileo Galilei",
+      "Leonardo da Vinci"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 291,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which part of the brain mainly controls balance and coordination?",
+    "options": [
+      "Cerebellum",
+      "Medulla",
+      "Thalamus",
+      "Cerebrum"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 292,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which of the following is a pulse crop?",
+    "options": [
+      "Sugarcane",
+      "Wheat",
+      "Lentil",
+      "Jute"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 293,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Organic farming avoids the use of what?",
+    "options": [
+      "Sunlight",
+      "Synthetic chemical fertilizers and pesticides",
+      "Animal manure",
+      "Water"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 294,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which gas do we exhale more of than we inhale?",
+    "options": [
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 295,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which protocol is used for secure web browsing?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "HTTPS",
+      "SSH-only"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 296,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the area of a triangle formula?",
+    "options": [
+      "½ × base × height",
+      "base + height",
+      "base × height",
+      "2 × base × height"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 297,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Malaysia?",
+    "options": [
+      "Jakarta",
+      "Johor Bahru",
+      "Penang",
+      "Kuala Lumpur"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 298,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "How many diagonals does a rectangle have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 299,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which is the largest continent?",
+    "options": [
+      "Asia",
+      "North America",
+      "Europe",
+      "Africa"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 300,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "How many degrees are in a right angle?",
+    "options": [
+      "90",
+      "60",
+      "45",
+      "180"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 301,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Devdas'?",
+    "options": [
+      "Bibhutibhushan Bandyopadhyay",
+      "Sarat Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 302,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 9 × 8?",
+    "options": [
+      "64",
+      "63",
+      "72",
+      "81"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 303,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which planet is known as the Morning Star?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 304,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is the derivative of x²?",
+    "options": [
+      "x",
+      "2x",
+      "x²",
+      "2"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 305,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which is the largest species of cat?",
+    "options": [
+      "Lion",
+      "Leopard",
+      "Jaguar",
+      "Tiger"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 306,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many minutes does a regulation football (soccer) match last?",
+    "options": [
+      "90",
+      "60",
+      "80",
+      "100"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 307,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The Suez Canal was opened in which year?",
+    "options": [
+      "1914",
+      "1832",
+      "1869",
+      "1799"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 308,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "What is a baby kangaroo called?",
+    "options": [
+      "Cub",
+      "Pup",
+      "Calf",
+      "Joey"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 309,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who wrote 'The Communist Manifesto'?",
+    "options": [
+      "Lenin and Stalin",
+      "Karl Marx and Friedrich Engels",
+      "Adam Smith and David Ricardo",
+      "Hegel and Kant"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 310,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Sao Paulo",
+      "Salvador",
+      "Rio de Janeiro",
+      "Brasilia"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 311,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which is the national fish of Bangladesh?",
+    "options": [
+      "Hilsa (Ilish)",
+      "Rohu",
+      "Catla",
+      "Tilapia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 312,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the national animal of Bangladesh?",
+    "options": [
+      "Royal Bengal Tiger",
+      "Leopard",
+      "Lion",
+      "Elephant"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 313,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which trophy is awarded to the winner of the NHL championship?",
+    "options": [
+      "Calcutta Cup",
+      "Stanley Cup",
+      "Davis Cup",
+      "Ryder Cup"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 314,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many letters are there in the English alphabet?",
+    "options": [
+      "26",
+      "25",
+      "24",
+      "28"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 315,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is the integral of 2x dx?",
+    "options": [
+      "x + C",
+      "2x² + C",
+      "2 + C",
+      "x² + C"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 316,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which sense organ is responsible for taste?",
+    "options": [
+      "Skin",
+      "Tongue",
+      "Nose",
+      "Ear"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 317,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "What is the capital of Bhutan?",
+    "options": [
+      "Thimphu",
+      "Paro",
+      "Kathmandu",
+      "Punakha"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 318,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Medina",
+      "Jeddah",
+      "Mecca",
+      "Riyadh"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 319,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "How many legs does an insect have?",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "10"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 320,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol of iron?",
+    "options": [
+      "Fe",
+      "In",
+      "I",
+      "Ir"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 321,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country won the 2011 Cricket World Cup?",
+    "options": [
+      "India",
+      "Sri Lanka",
+      "Pakistan",
+      "Australia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 322,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What file extension do Python scripts use?",
+    "options": [
+      ".python",
+      ".pyt",
+      ".pt",
+      ".py"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 323,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol of silver?",
+    "options": [
+      "Au",
+      "Ag",
+      "Si",
+      "Sv"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 324,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "What does the Olympic motto 'Citius, Altius, Fortius' mean?",
+    "options": [
+      "Together, Strong, United",
+      "Bigger, Better, Bolder",
+      "Swift, Brave, Loyal",
+      "Faster, Higher, Stronger"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 325,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "How many sides does a pentagon have?",
+    "options": [
+      "4",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 326,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Hundred Years' War was fought between which two countries?",
+    "options": [
+      "Italy and France",
+      "Germany and Austria",
+      "Spain and Portugal",
+      "England and France"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 327,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which pigment gives human blood its red colour?",
+    "options": [
+      "Keratin",
+      "Hemoglobin",
+      "Melanin",
+      "Chlorophyll"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 328,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which blood group is known as the universal recipient?",
+    "options": [
+      "A negative",
+      "O negative",
+      "B positive",
+      "AB positive"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 329,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the next prime number after 7?",
+    "options": [
+      "9",
+      "13",
+      "11",
+      "10"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 330,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Where does photosynthesis take place in plant cells?",
+    "options": [
+      "Nucleus",
+      "Vacuole",
+      "Mitochondria",
+      "Chloroplasts"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 331,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": [
+      "Japan",
+      "China",
+      "Brazil",
+      "United Kingdom"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 332,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 15 + 27?",
+    "options": [
+      "52",
+      "32",
+      "42",
+      "41"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 333,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+    "options": [
+      "Arctic Circle",
+      "Tropic of Cancer",
+      "Equator",
+      "Prime Meridian"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 334,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "The Statue of Liberty was a gift to the USA from which country?",
+    "options": [
+      "United Kingdom",
+      "Spain",
+      "France",
+      "Germany"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 335,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who wrote 'Moby-Dick'?",
+    "options": [
+      "Edgar Allan Poe",
+      "Nathaniel Hawthorne",
+      "Herman Melville",
+      "Mark Twain"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 336,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which country is home to Machu Picchu?",
+    "options": [
+      "Chile",
+      "Peru",
+      "Bolivia",
+      "Ecuador"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 337,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What is the chemical formula of sulfuric acid?",
+    "options": [
+      "HNO₃",
+      "H₂SO₄",
+      "HCl",
+      "H₂CO₃"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 338,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which organ filters waste from the blood to make urine?",
+    "options": [
+      "Stomach",
+      "Liver",
+      "Kidney",
+      "Pancreas"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 339,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is 15% of 80?",
+    "options": [
+      "10",
+      "15",
+      "8",
+      "12"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 340,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Sericulture is the rearing of what?",
+    "options": [
+      "Silkworms",
+      "Cattle",
+      "Goats",
+      "Honey bees"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 341,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which animal commonly hibernates in winter?",
+    "options": [
+      "Bear",
+      "Camel",
+      "Horse",
+      "Cow"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 342,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is 5! (5 factorial)?",
+    "options": [
+      "720",
+      "60",
+      "25",
+      "120"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 343,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which role is Shakib Al Hasan best known for in cricket?",
+    "options": [
+      "Commentator",
+      "All-rounder",
+      "Umpire",
+      "Wicketkeeper"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 344,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "How many zeros are in one million?",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "5"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 345,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who was the first emperor of unified China?",
+    "options": [
+      "Sun Yat-sen",
+      "Qin Shi Huang",
+      "Han Wudi",
+      "Kublai Khan"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 346,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which year did the Bangladesh Liberation War take place?",
+    "options": [
+      "1947",
+      "1971",
+      "1952",
+      "1975"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 347,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which city is known as the 'Big Apple'?",
+    "options": [
+      "Boston",
+      "Chicago",
+      "Los Angeles",
+      "New York City"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 348,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the mean of 2, 4, 6 and 8?",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "20"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 349,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who is credited as the author of the Ramayana?",
+    "options": [
+      "Vyasa",
+      "Tulsidas",
+      "Kalidasa",
+      "Valmiki"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 350,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who was the first Asian to win the Nobel Prize in Literature?",
+    "options": [
+      "Rabindranath Tagore",
+      "Mo Yan",
+      "Kenzaburo Oe",
+      "Yasunari Kawabata"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 351,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 1000 − 357?",
+    "options": [
+      "653",
+      "633",
+      "643",
+      "743"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 352,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which is the largest island in the world?",
+    "options": [
+      "Australia",
+      "Borneo",
+      "Madagascar",
+      "Greenland"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 353,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the first Prime Minister of independent India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Lal Bahadur Shastri"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 354,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the leader of South Africa's first democratic government in 1994?",
+    "options": [
+      "F. W. de Klerk",
+      "Desmond Tutu",
+      "Nelson Mandela",
+      "Thabo Mbeki"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 355,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which of these is an operating system?",
+    "options": [
+      "Linux",
+      "Excel",
+      "Python",
+      "Chrome"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 356,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which tennis player is nicknamed the 'King of Clay'?",
+    "options": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Andy Murray",
+      "Roger Federer"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 357,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which Google-developed library is widely used for deep learning?",
+    "options": [
+      "Bootstrap",
+      "NumPy",
+      "TensorFlow",
+      "Django"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 358,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "A train travels at 60 km/h for 2 hours. How far does it go?",
+    "options": [
+      "120 km",
+      "60 km",
+      "180 km",
+      "100 km"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 359,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who invented the Braille system for the blind?",
+    "options": [
+      "Louis Braille",
+      "Helen Keller",
+      "Alexander Bell",
+      "Samuel Morse"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 360,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "In the NPK fertilizer label, what does K stand for?",
+    "options": [
+      "Potassium",
+      "Kerosene",
+      "Calcium",
+      "Krypton"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 361,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who wrote 'Alice's Adventures in Wonderland'?",
+    "options": [
+      "J. M. Barrie",
+      "A. A. Milne",
+      "Lewis Carroll",
+      "Rudyard Kipling"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 362,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which year did World War II end?",
+    "options": [
+      "1950",
+      "1946",
+      "1945",
+      "1943"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 363,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "options": [
+      "Lyon",
+      "Paris",
+      "Marseille",
+      "Nice"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 364,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the HCF of 12 and 18?",
+    "options": [
+      "9",
+      "6",
+      "3",
+      "12"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 365,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which colour is made by mixing blue and yellow?",
+    "options": [
+      "Purple",
+      "Green",
+      "Brown",
+      "Orange"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 366,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Apiculture is the rearing of what?",
+    "options": [
+      "Poultry",
+      "Silkworms",
+      "Fish",
+      "Honey bees"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 367,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Online Network",
+      "JavaScript Object Notation",
+      "Java Standard Object Naming",
+      "Joint Source Object Name"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 368,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the main gas responsible for the greenhouse effect?",
+    "options": [
+      "Argon",
+      "Carbon dioxide",
+      "Oxygen",
+      "Neon"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 369,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which company owns YouTube?",
+    "options": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Meta"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 370,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "Which is considered the first general-purpose electronic computer?",
+    "options": [
+      "Z3",
+      "EDVAC",
+      "UNIVAC",
+      "ENIAC"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 371,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "A golf tournament winner at the Masters receives which famous item?",
+    "options": [
+      "A blue cap",
+      "A green jacket",
+      "A gold ring",
+      "A silver cup"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 372,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which is the only mammal that can truly fly?",
+    "options": [
+      "Sugar glider",
+      "Flying squirrel",
+      "Flying fox",
+      "Bat"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 373,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Mushrooms belong to which group of organisms?",
+    "options": [
+      "Bacteria",
+      "Plants",
+      "Algae",
+      "Fungi"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 374,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which animal is the main source of milk in dairy farming?",
+    "options": [
+      "Cow",
+      "Pig",
+      "Camel",
+      "Horse"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 375,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who was the first emperor of the Roman Empire?",
+    "options": [
+      "Julius Caesar",
+      "Constantine",
+      "Nero",
+      "Augustus"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 376,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which is the smallest country in the world by area?",
+    "options": [
+      "Vatican City",
+      "Liechtenstein",
+      "Monaco",
+      "San Marino"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 377,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "How many vertices does a cube have?",
+    "options": [
+      "6",
+      "12",
+      "4",
+      "8"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 378,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the Roman numeral for 50?",
+    "options": [
+      "X",
+      "D",
+      "L",
+      "C"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 379,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which insect is most important for pollinating crops?",
+    "options": [
+      "Mosquito",
+      "Housefly",
+      "Ant",
+      "Honey bee"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 380,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the process of water vapor turning into liquid called?",
+    "options": [
+      "Sublimation",
+      "Condensation",
+      "Freezing",
+      "Evaporation"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 381,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'Wuthering Heights'?",
+    "options": [
+      "Emily Bronte",
+      "Charlotte Bronte",
+      "Jane Austen",
+      "George Eliot"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 382,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which organs are mainly used for breathing?",
+    "options": [
+      "Kidneys",
+      "Lungs",
+      "Intestines",
+      "Ears"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 383,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which is the largest hot desert in the world?",
+    "options": [
+      "Gobi",
+      "Kalahari",
+      "Sahara",
+      "Arabian Desert"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 384,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "How many seconds are there in one day?",
+    "options": [
+      "100,000",
+      "3,600",
+      "60,000",
+      "86,400"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 385,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Rice is typically grown in what type of field?",
+    "options": [
+      "Dry sandy field",
+      "Flooded paddy field",
+      "Greenhouse only",
+      "Rocky hillside"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 386,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many strings does a standard guitar have?",
+    "options": [
+      "5",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 387,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Indus Valley Civilization included which ancient city?",
+    "options": [
+      "Mohenjo-daro",
+      "Babylon",
+      "Thebes",
+      "Carthage"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 388,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which animal was Waldi, the first official Olympic mascot (Munich 1972)?",
+    "options": [
+      "A panda",
+      "A bear",
+      "A dachshund",
+      "A lion"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 389,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Who created the first widely accepted periodic table?",
+    "options": [
+      "Marie Curie",
+      "Ernest Rutherford",
+      "Dmitri Mendeleev",
+      "John Dalton"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 390,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does SQL stand for?",
+    "options": [
+      "Standard Query Link",
+      "Sequential Query Logic",
+      "Structured Query Language",
+      "Simple Question Language"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 391,
+    "category": "Mathematics",
+    "difficulty": "hard",
+    "question": "What is the square root of 625?",
+    "options": [
+      "125",
+      "35",
+      "25",
+      "15"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 392,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The Spanish Armada was defeated in which year?",
+    "options": [
+      "1558",
+      "1688",
+      "1588",
+      "1488"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 393,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "On which date is World Environment Day observed?",
+    "options": [
+      "16 October",
+      "5 June",
+      "8 March",
+      "22 April"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 394,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country hosted the 2018 FIFA World Cup?",
+    "options": [
+      "Russia",
+      "Germany",
+      "Qatar",
+      "Brazil"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 395,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Compost is made from what?",
+    "options": [
+      "Plastic waste",
+      "Sand and gravel",
+      "Chemical salts",
+      "Decomposed organic matter"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 396,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What does 'WWW' stand for?",
+    "options": [
+      "World Web Window",
+      "Wide World Web",
+      "Web World Wide",
+      "World Wide Web"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 397,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who wrote the play 'Hamlet'?",
+    "options": [
+      "Oscar Wilde",
+      "Mark Twain",
+      "William Shakespeare",
+      "Charles Dickens"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 398,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which part of the eye controls the amount of light entering it?",
+    "options": [
+      "Retina",
+      "Optic nerve",
+      "Iris (pupil opening)",
+      "Cornea"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 399,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which bird is a universal symbol of peace?",
+    "options": [
+      "Swan",
+      "Dove",
+      "Owl",
+      "Eagle"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 400,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which year did World War I end?",
+    "options": [
+      "1918",
+      "1916",
+      "1920",
+      "1914"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 401,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "Which equation represents the Pythagorean theorem?",
+    "options": [
+      "a² + b² = c²",
+      "a × b = c",
+      "a + b = c",
+      "a² − b² = c²"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 402,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'A Tale of Two Cities'?",
+    "options": [
+      "Anthony Trollope",
+      "Henry James",
+      "William Thackeray",
+      "Charles Dickens"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 403,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Judo originated in which country?",
+    "options": [
+      "Thailand",
+      "China",
+      "Japan",
+      "Korea"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 404,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Thailand?",
+    "options": [
+      "Bangkok",
+      "Phuket",
+      "Chiang Mai",
+      "Hanoi"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 405,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which is the lightest element?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Oxygen"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 406,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which blood component helps in clotting?",
+    "options": [
+      "Plasma",
+      "White blood cells",
+      "Red blood cells",
+      "Platelets"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 407,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Pole vault is part of which sport?",
+    "options": [
+      "Wrestling",
+      "Gymnastics",
+      "Swimming",
+      "Athletics"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 408,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which gas is commonly known as laughing gas?",
+    "options": [
+      "Methane",
+      "Carbon monoxide",
+      "Nitrous oxide",
+      "Nitrogen dioxide"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 409,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which year was the US Declaration of Independence adopted?",
+    "options": [
+      "1801",
+      "1765",
+      "1789",
+      "1776"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 410,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which is the deepest ocean trench?",
+    "options": [
+      "Puerto Rico Trench",
+      "Tonga Trench",
+      "Mariana Trench",
+      "Java Trench"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 411,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the currency of Bangladesh?",
+    "options": [
+      "Dinar",
+      "Rupiah",
+      "Taka",
+      "Rupee"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 412,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which organ pumps blood around the human body?",
+    "options": [
+      "Heart",
+      "Kidney",
+      "Liver",
+      "Lungs"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 413,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Who founded the Mughal Empire in India?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Shah Jahan",
+      "Akbar"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 414,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the median of 3, 5 and 9?",
+    "options": [
+      "9",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 415,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "What does FAO stand for?",
+    "options": [
+      "Farm and Animal Office",
+      "Food and Animal Operations",
+      "Food and Agriculture Organization",
+      "Federation of Agricultural Organizations"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 416,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which sport do the Los Angeles Lakers play?",
+    "options": [
+      "Basketball",
+      "Baseball",
+      "Ice hockey",
+      "American football"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 417,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the sum of the interior angles of a quadrilateral?",
+    "options": [
+      "270°",
+      "180°",
+      "540°",
+      "360°"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 418,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the average of 10, 20 and 30?",
+    "options": [
+      "20",
+      "25",
+      "15",
+      "30"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 419,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Coulomb",
+      "Ohm",
+      "Ampere",
+      "Volt"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 420,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 0.5 written as a fraction?",
+    "options": [
+      "5/100",
+      "1/5",
+      "1/2",
+      "2/5"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 421,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Aman, Aus and Boro are seasonal varieties of which crop in Bangladesh?",
+    "options": [
+      "Wheat",
+      "Maize",
+      "Rice",
+      "Jute"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 422,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the sum of the first 10 natural numbers?",
+    "options": [
+      "100",
+      "45",
+      "55",
+      "50"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 423,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Natural rubber is obtained from which tree?",
+    "options": [
+      "Neem",
+      "Hevea brasiliensis",
+      "Teak",
+      "Banyan"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 424,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "Who composed 'The Four Seasons'?",
+    "options": [
+      "Frederic Chopin",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Claude Debussy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 425,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which ancient wonder was located at Giza?",
+    "options": [
+      "Lighthouse of Alexandria",
+      "The Great Pyramid",
+      "Colossus",
+      "Hanging Gardens"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 426,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is the largest mammal on Earth?",
+    "options": [
+      "African elephant",
+      "Giraffe",
+      "Hippopotamus",
+      "Blue whale"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 427,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which monument is located in Agra?",
+    "options": [
+      "Red Fort",
+      "Taj Mahal",
+      "Gateway of India",
+      "Qutub Minar"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 428,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which organ produces bile?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Gallbladder",
+      "Stomach"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 429,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Cutting down large areas of forest is called what?",
+    "options": [
+      "Afforestation",
+      "Conservation",
+      "Reforestation",
+      "Deforestation"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 430,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Kenya?",
+    "options": [
+      "Mombasa",
+      "Nairobi",
+      "Addis Ababa",
+      "Kampala"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 431,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Who is known as the father of the Green Revolution worldwide?",
+    "options": [
+      "Louis Pasteur",
+      "Gregor Mendel",
+      "Norman Borlaug",
+      "Charles Darwin"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 432,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which company developed the Android operating system's current versions?",
+    "options": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Nokia"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 433,
+    "category": "Literature & Arts",
+    "difficulty": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Vincent van Gogh",
+      "Raphael"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 434,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which is the fastest land animal?",
+    "options": [
+      "Horse",
+      "Lion",
+      "Cheetah",
+      "Leopard"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 435,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Who was the first human in space?",
+    "options": [
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "John Glenn",
+      "Neil Armstrong"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 436,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "The Dead Sea lies between Israel and which country?",
+    "options": [
+      "Egypt",
+      "Lebanon",
+      "Syria",
+      "Jordan"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 437,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is the square root of 144?",
+    "options": [
+      "10",
+      "11",
+      "14",
+      "12"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 438,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "Which is the longest river in Africa?",
+    "options": [
+      "Congo",
+      "Zambezi",
+      "Nile",
+      "Niger"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 439,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which loop keyword is used to iterate over items in Python?",
+    "options": [
+      "repeat",
+      "loop",
+      "each",
+      "for"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 440,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which blood vessels carry blood away from the heart?",
+    "options": [
+      "Lymph vessels",
+      "Capillaries",
+      "Arteries",
+      "Veins"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 441,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which country won the first FIFA World Cup in 1930?",
+    "options": [
+      "Uruguay",
+      "Brazil",
+      "Italy",
+      "Argentina"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 442,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players per side are on the field in a football (soccer) match?",
+    "options": [
+      "12",
+      "9",
+      "11",
+      "10"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 443,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Alexander the Great was king of which ancient kingdom?",
+    "options": [
+      "Sparta",
+      "Macedonia",
+      "Athens",
+      "Persia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 444,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which term is used when a golfer scores one under par on a hole?",
+    "options": [
+      "Albatross",
+      "Bogey",
+      "Birdie",
+      "Eagle"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 445,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which animal provides wool?",
+    "options": [
+      "Cow",
+      "Goat",
+      "Sheep",
+      "Pig"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 446,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which year did the Titanic sink?",
+    "options": [
+      "1915",
+      "1905",
+      "1912",
+      "1920"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 447,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which mineral is essential for strong bones and teeth?",
+    "options": [
+      "Iodine",
+      "Sodium",
+      "Copper",
+      "Calcium"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 448,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which piece in chess moves in an 'L' shape?",
+    "options": [
+      "Queen",
+      "Bishop",
+      "Knight",
+      "Rook"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 449,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is the approximate distance of a marathon?",
+    "options": [
+      "42.195 km",
+      "36 km",
+      "21 km",
+      "50 km"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 450,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Which fruit is called the 'king of fruits' in South Asia?",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Orange"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 451,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "How many bones are there in an adult human body?",
+    "options": [
+      "230",
+      "300",
+      "186",
+      "206"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 452,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "International Mother Language Day, linked to the 1952 Language Movement, is observed on which date?",
+    "options": [
+      "14 April",
+      "21 February",
+      "26 March",
+      "16 December"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 453,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "options": [
+      "Croatia",
+      "France",
+      "Argentina",
+      "Brazil"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 454,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "A score of 100 runs by a batsman is called what?",
+    "options": [
+      "A ton-up pair",
+      "A century",
+      "A half-century",
+      "A double"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 455,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "The scientific name of rice is:",
+    "options": [
+      "Triticum aestivum",
+      "Oryza sativa",
+      "Zea mays",
+      "Gossypium hirsutum"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 456,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year was the atomic bomb dropped on Hiroshima?",
+    "options": [
+      "1946",
+      "1944",
+      "1941",
+      "1945"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 457,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does GUI stand for?",
+    "options": [
+      "General User Input",
+      "Graphical User Interface",
+      "Graphic Unit Index",
+      "Global Utility Interface"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 458,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many holes are played in a standard round of golf?",
+    "options": [
+      "9",
+      "18",
+      "12",
+      "24"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 459,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "How many teeth does a normal adult human have?",
+    "options": [
+      "28",
+      "36",
+      "32",
+      "30"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 460,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "What is crop rotation?",
+    "options": [
+      "Growing different crops in sequence on the same land",
+      "Spinning grain in a mill",
+      "Moving livestock between farms",
+      "Rotating a field's irrigation pump"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 461,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the chemical formula of water?",
+    "options": [
+      "H₂O",
+      "O₂",
+      "CO₂",
+      "NaCl"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 462,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Julius Caesar was assassinated in which year?",
+    "options": [
+      "14 AD",
+      "100 BC",
+      "44 BC",
+      "27 BC"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 463,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "How many days are there in a leap year?",
+    "options": [
+      "365",
+      "367",
+      "364",
+      "366"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 464,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Deficiency of iron in the body can cause which condition?",
+    "options": [
+      "Anaemia",
+      "Rickets",
+      "Scurvy",
+      "Goitre"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 465,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who is known as the 'Bard of Avon'?",
+    "options": [
+      "Lord Byron",
+      "Geoffrey Chaucer",
+      "John Milton",
+      "William Shakespeare"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 466,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which blood group is called the universal donor?",
+    "options": [
+      "O negative",
+      "A positive",
+      "AB positive",
+      "B negative"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 467,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which country did the Renaissance begin?",
+    "options": [
+      "France",
+      "England",
+      "Italy",
+      "Spain"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 468,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "The Ashes is a Test cricket series between England and which country?",
+    "options": [
+      "India",
+      "South Africa",
+      "New Zealand",
+      "Australia"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 469,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "How many Grand Slam tennis tournaments are there each year?",
+    "options": [
+      "5",
+      "6",
+      "3",
+      "4"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 470,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "In which sport would you compete for the Davis Cup?",
+    "options": [
+      "Rugby",
+      "Cricket",
+      "Golf",
+      "Tennis"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 471,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Mustard is mainly grown for what?",
+    "options": [
+      "Edible oil",
+      "Rubber",
+      "Fibre",
+      "Sugar"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 472,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Bats find their way in the dark using what?",
+    "options": [
+      "Smell",
+      "Echolocation",
+      "Magnetism",
+      "Infrared vision"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 473,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which pigment makes plants green?",
+    "options": [
+      "Hemoglobin",
+      "Melanin",
+      "Carotene",
+      "Chlorophyll"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 474,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Sound cannot travel through which of the following?",
+    "options": [
+      "A vacuum",
+      "Air",
+      "Water",
+      "Steel"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 475,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "What is the currency of the United States?",
+    "options": [
+      "Pound",
+      "Peso",
+      "Euro",
+      "US Dollar"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 476,
+    "category": "Literature & Arts",
+    "difficulty": "hard",
+    "question": "In which country did ballet first develop in Renaissance courts?",
+    "options": [
+      "France",
+      "Austria",
+      "Italy",
+      "Russia"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 477,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Potato is classified as what type of vegetable?",
+    "options": [
+      "Leafy vegetable",
+      "Root nut",
+      "Tuber",
+      "Fruit vegetable"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 478,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "How many keys does a standard piano have?",
+    "options": [
+      "92",
+      "88",
+      "76",
+      "100"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 479,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "Which value is closest to the number pi (π)?",
+    "options": [
+      "2.71",
+      "4.13",
+      "1.62",
+      "3.14"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 480,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'War and Peace'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 481,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Vermicompost is made using which organism?",
+    "options": [
+      "Honey bees",
+      "Silkworms",
+      "Termites",
+      "Earthworms"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 482,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Ottawa",
+      "Montreal",
+      "Vancouver"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 483,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does GPS stand for?",
+    "options": [
+      "Global Programming Service",
+      "General Path Signal",
+      "Ground Position Satellite",
+      "Global Positioning System"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 484,
+    "category": "Agriculture",
+    "difficulty": "medium",
+    "question": "Raising fish in ponds and tanks is known as what?",
+    "options": [
+      "Apiculture",
+      "Viticulture",
+      "Aquaculture",
+      "Horticulture"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 485,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "What is a group of lions called?",
+    "options": [
+      "Pride",
+      "Flock",
+      "Herd",
+      "Pack"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 486,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "Which of these is a prime number?",
+    "options": [
+      "21",
+      "15",
+      "17",
+      "27"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 487,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Which tree is the national tree of Bangladesh?",
+    "options": [
+      "Neem tree",
+      "Teak tree",
+      "Mango tree",
+      "Banyan tree"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 488,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol of sodium?",
+    "options": [
+      "So",
+      "Sn",
+      "Na",
+      "S"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 489,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "How many FIFA World Cups did Pele win as a player?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 490,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which country has won the most Olympic gold medals overall?",
+    "options": [
+      "Great Britain",
+      "Soviet Union",
+      "United States",
+      "China"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 491,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which Python keyword is used to handle exceptions?",
+    "options": [
+      "error",
+      "catch",
+      "handle",
+      "try"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 492,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which river flows through London?",
+    "options": [
+      "Danube",
+      "Thames",
+      "Seine",
+      "Rhine"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 493,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the basic unit of life?",
+    "options": [
+      "Atom",
+      "Tissue",
+      "Cell",
+      "Organ"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 494,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "The Sahara Desert is located in which continent?",
+    "options": [
+      "Asia",
+      "Africa",
+      "South America",
+      "Australia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 495,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "How many bits are there in one byte?",
+    "options": [
+      "4",
+      "16",
+      "2",
+      "8"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 496,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "How many edges does a cube have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 497,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which gas is the most abundant in the Sun?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Helium",
+      "Carbon"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 498,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which Python library is widely used for data analysis with DataFrames?",
+    "options": [
+      "Pygame",
+      "pandas",
+      "Tkinter",
+      "Flask"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 499,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "Which city is known as the 'Eternal City'?",
+    "options": [
+      "Athens",
+      "Rome",
+      "Paris",
+      "Jerusalem"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 500,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "In which country was the sport of cricket invented?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "England",
+      "India"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 501,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who directed the film 'Pather Panchali'?",
+    "options": [
+      "Tareque Masud",
+      "Mrinal Sen",
+      "Satyajit Ray",
+      "Ritwik Ghatak"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 502,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the SI unit of energy?",
+    "options": [
+      "Pascal",
+      "Joule",
+      "Newton",
+      "Watt"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 503,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Hamilton",
+      "Wellington",
+      "Auckland",
+      "Christchurch"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 504,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 25% of 200?",
+    "options": [
+      "25",
+      "50",
+      "75",
+      "40"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 505,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which acid is found in lemons?",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Sulfuric acid",
+      "Lactic acid"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 506,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "The shuttlecock is used in which sport?",
+    "options": [
+      "Table tennis",
+      "Squash",
+      "Badminton",
+      "Tennis"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 507,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Ancient Egyptian pyramids were mainly built as what?",
+    "options": [
+      "Military forts",
+      "Royal palaces",
+      "Tombs for pharaohs",
+      "Temples for farmers"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 508,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which person created the Python programming language?",
+    "options": [
+      "James Gosling",
+      "Guido van Rossum",
+      "Dennis Ritchie",
+      "Bjarne Stroustrup"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 509,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which of these is a renewable source of energy?",
+    "options": [
+      "Petroleum",
+      "Solar energy",
+      "Natural gas",
+      "Coal"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 510,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year was the Battle of Plassey fought?",
+    "options": [
+      "1757",
+      "1707",
+      "1764",
+      "1857"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 511,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Germany",
+      "Italy"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 512,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the simple interest on 1000 at 5% per year for 2 years?",
+    "options": [
+      "50",
+      "100",
+      "150",
+      "200"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 513,
+    "category": "Mathematics",
+    "difficulty": "easy",
+    "question": "What is 100 divided by 4?",
+    "options": [
+      "20",
+      "25",
+      "50",
+      "40"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 514,
+    "category": "Mathematics",
+    "difficulty": "medium",
+    "question": "What is the value of cos 0°?",
+    "options": [
+      "0",
+      "1",
+      "−1",
+      "0.5"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 515,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Lord's Cricket Ground is in which city?",
+    "options": [
+      "London",
+      "Mumbai",
+      "Sydney",
+      "Manchester"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 516,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which Python function converts a value to an integer?",
+    "options": [
+      "int()",
+      "integer()",
+      "num()",
+      "toInt()"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 517,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Which athlete is known as the 'Flying Sikh'?",
+    "options": [
+      "Milkha Singh",
+      "P. T. Usha",
+      "Dhyan Chand",
+      "Sushil Kumar"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 518,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many balls are bowled in one over of cricket?",
+    "options": [
+      "10",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 519,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "A puck is used in which sport?",
+    "options": [
+      "Curling",
+      "Ice hockey",
+      "Lacrosse",
+      "Field hockey"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 520,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How many colors are there in a rainbow?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 521,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Mars",
+      "Mercury",
+      "Earth",
+      "Venus"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 522,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the speed of light in vacuum, approximately?",
+    "options": [
+      "3 × 10⁶ m/s",
+      "3 × 10⁵ m/s",
+      "3 × 10¹⁰ m/s",
+      "3 × 10⁸ m/s"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 523,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Automated Process Input",
+      "Advanced Protocol Index",
+      "Applied Program Integration"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 524,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the national bird of Bangladesh?",
+    "options": [
+      "Peacock",
+      "Oriental magpie-robin (Doyel)",
+      "Kingfisher",
+      "Parrot"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 525,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which is the highest mountain in the world above sea level?",
+    "options": [
+      "Makalu",
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 526,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Bronte",
+      "Jane Austen",
+      "Emily Bronte",
+      "Mary Shelley"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 527,
+    "category": "Health & Nature",
+    "difficulty": "medium",
+    "question": "Which vitamin deficiency causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin K",
+      "Vitamin C"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 528,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "How many players are in a rugby union team on the field?",
+    "options": [
+      "13",
+      "12",
+      "11",
+      "15"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 529,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the atomic number of hydrogen?",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "8"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 530,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year did the Berlin Wall fall?",
+    "options": [
+      "1979",
+      "1991",
+      "1989",
+      "1985"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 531,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which gas do plants absorb for photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 532,
+    "category": "Agriculture",
+    "difficulty": "easy",
+    "question": "Sugar is mainly obtained from which crop?",
+    "options": [
+      "Cotton",
+      "Sugarcane",
+      "Jute",
+      "Rice"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 533,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "What is the national game of Bangladesh?",
+    "options": [
+      "Hockey",
+      "Football",
+      "Kabaddi",
+      "Cricket"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 534,
+    "category": "Health & Nature",
+    "difficulty": "hard",
+    "question": "Deficiency of which vitamin can cause night blindness?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin E"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 535,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "At sea level, what is the boiling point of water?",
+    "options": [
+      "110 °C",
+      "100 °C",
+      "120 °C",
+      "90 °C"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 536,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which animal has eight arms?",
+    "options": [
+      "Squid",
+      "Starfish",
+      "Jellyfish",
+      "Octopus"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 537,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol of potassium?",
+    "options": [
+      "P",
+      "Po",
+      "K",
+      "Pt"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 538,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "What is the study of birds called?",
+    "options": [
+      "Ornithology",
+      "Ichthyology",
+      "Herpetology",
+      "Entomology"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 539,
+    "category": "Geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Pakistan?",
+    "options": [
+      "Peshawar",
+      "Islamabad",
+      "Karachi",
+      "Lahore"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 540,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which organelle is called the powerhouse of the cell?",
+    "options": [
+      "Golgi body",
+      "Mitochondria",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 541,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does 'IP' in IP address stand for?",
+    "options": [
+      "Integrated Process",
+      "Internal Program",
+      "Input Port",
+      "Internet Protocol"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 542,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which gas is mainly responsible for global warming?",
+    "options": [
+      "Oxygen",
+      "Neon",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 543,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "How many chromosomes are in a normal human body cell?",
+    "options": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 544,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which of the following is a programming language?",
+    "options": [
+      "Bluetooth",
+      "Router",
+      "Java",
+      "Ethernet"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 545,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Victoria Falls is on which river?",
+    "options": [
+      "Limpopo",
+      "Nile",
+      "Congo",
+      "Zambezi"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 546,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which gas is commonly used in fire extinguishers?",
+    "options": [
+      "Hydrogen",
+      "Carbon dioxide",
+      "Methane",
+      "Oxygen"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 547,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "In which year did World War I begin?",
+    "options": [
+      "1914",
+      "1918",
+      "1916",
+      "1912"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 548,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does AI stand for?",
+    "options": [
+      "Artificial Intelligence",
+      "Applied Interface",
+      "Advanced Input",
+      "Automated Internet"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 549,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How many players of one team are on court in basketball?",
+    "options": [
+      "5",
+      "7",
+      "4",
+      "6"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 550,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Robert Koch",
+      "Edward Jenner",
+      "Alexander Fleming",
+      "Louis Pasteur"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 551,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year did Japan attack Pearl Harbor?",
+    "options": [
+      "1945",
+      "1941",
+      "1939",
+      "1943"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 552,
+    "category": "Sports",
+    "difficulty": "medium",
+    "question": "Which footballer is nicknamed 'La Pulga'?",
+    "options": [
+      "Neymar",
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Kylian Mbappe"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 553,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who was the first woman Prime Minister in the world?",
+    "options": [
+      "Golda Meir",
+      "Margaret Thatcher",
+      "Sirimavo Bandaranaike",
+      "Indira Gandhi"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 554,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which country is called the 'Land of the Rising Sun'?",
+    "options": [
+      "Vietnam",
+      "China",
+      "Thailand",
+      "Japan"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 555,
+    "category": "Technology",
+    "difficulty": "hard",
+    "question": "In machine learning, learning from labeled data is called:",
+    "options": [
+      "Unsupervised learning",
+      "Transfer cleaning",
+      "Reinforcement learning",
+      "Supervised learning"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 556,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which river flows through Budapest?",
+    "options": [
+      "Vistula",
+      "Elbe",
+      "Danube",
+      "Rhine"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 557,
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "Who won the first Cricket World Cup in 1975?",
+    "options": [
+      "England",
+      "West Indies",
+      "India",
+      "Australia"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 558,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Which instrument measures temperature?",
+    "options": [
+      "Thermometer",
+      "Hygrometer",
+      "Speedometer",
+      "Barometer"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 559,
+    "category": "Agriculture",
+    "difficulty": "hard",
+    "question": "Bt cotton is engineered to resist which pest?",
+    "options": [
+      "Bollworm",
+      "Locust",
+      "Aphid",
+      "Termite"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 560,
+    "category": "Geography",
+    "difficulty": "hard",
+    "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+    "options": [
+      "Canada",
+      "Sweden",
+      "Norway",
+      "Finland"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 561,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year did the French Revolution begin?",
+    "options": [
+      "1789",
+      "1779",
+      "1799",
+      "1804"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 562,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "How many legs does a spider have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "4"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 563,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'Les Miserables'?",
+    "options": [
+      "Emile Zola",
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Gustave Flaubert"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 564,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "The Black Death swept across Europe in which century?",
+    "options": [
+      "14th century",
+      "19th century",
+      "17th century",
+      "10th century"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 565,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "What does SSD stand for?",
+    "options": [
+      "Super Static Drive",
+      "Solid Storage Disk",
+      "Solid State Drive",
+      "System Speed Drive"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 566,
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "Which keyboard shortcut is commonly used to copy?",
+    "options": [
+      "Ctrl + V",
+      "Ctrl + C",
+      "Ctrl + Z",
+      "Ctrl + X"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 567,
+    "category": "Literature & Arts",
+    "difficulty": "medium",
+    "question": "Who wrote 'The Diary of a Young Girl'?",
+    "options": [
+      "Anne Frank",
+      "Malala Yousafzai",
+      "Louisa May Alcott",
+      "Helen Keller"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 568,
+    "category": "Health & Nature",
+    "difficulty": "easy",
+    "question": "Which is the main organ of the human nervous system?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Brain",
+      "Stomach"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 569,
+    "category": "Technology",
+    "difficulty": "medium",
+    "question": "Which type of memory is volatile?",
+    "options": [
+      "SSD",
+      "ROM",
+      "Hard disk",
+      "RAM"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 570,
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the practical electric light bulb?",
+    "options": [
+      "Alexander Bell",
+      "Benjamin Franklin",
+      "Thomas Edison",
+      "James Watt"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 571,
+    "category": "General Knowledge",
+    "difficulty": "medium",
+    "question": "What is the national fruit of Bangladesh?",
+    "options": [
+      "Jackfruit",
+      "Mango",
+      "Banana",
+      "Lychee"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 572,
+    "category": "General Knowledge",
+    "difficulty": "hard",
+    "question": "Which is the smallest bird in the world?",
+    "options": [
+      "Sparrow",
+      "Finch",
+      "Bee hummingbird",
+      "Wren"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 573,
+    "category": "Sports",
+    "difficulty": "easy",
+    "question": "How often are the Summer Olympic Games held?",
+    "options": [
+      "Every 4 years",
+      "Every 5 years",
+      "Every 3 years",
+      "Every 2 years"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 574,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which planet is famous for its prominent rings?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Saturn",
+      "Mars"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 575,
+    "category": "Geography",
+    "difficulty": "easy",
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": [
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "A"
+  }
+]
