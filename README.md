@@ -125,4 +125,4 @@ AI was used as a learning and research assistant. I reviewed the suggestions and
 
 --
 
-## *This project was developed for educational purposes as part of my Python programming practice.
+## *Developed for educational purposes as a part of my Python programming practice.
