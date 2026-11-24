@@ -121,10 +121,8 @@ I used AI tools as supporting resources during this project to:
 - Add lifelines such as 50:50 and Ask the Audience.
 - Add player scores and a leaderboard.
 - Expand the question database.
+AI was used as a learning and research assistant. I reviewed the suggestions and applied them during my own development process.
 
+--
 
-## *AI was used as a learning and research assistant. I reviewed the suggestions and applied them during my own development process.
-
----
-
-This project was developed for educational purposes as part of my Python programming practice.
+## *This project was developed for educational purposes as part of my Python programming practice.
